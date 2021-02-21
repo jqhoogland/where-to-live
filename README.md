@@ -24,6 +24,13 @@ Note: this doesn't factor in the differences between daily high and low (it aver
 Note: I didn't check each of the references (I didn't check any).
 
 
+#### [Population](https://population.un.org/wup/Download/)
+> United Nations, Department of Economic and Social Affairs, Population Division (2018). World Urbanization Prospects: The 2018 Revision, Online Edition.
+
+See also: https://worldpopulationreview.com/world-cities
+
+
+
 #### TODOs
 - Environmental
   - [Humidex](https://en.wikipedia.org/wiki/Humidex)
@@ -46,3 +53,5 @@ Note: I didn't check each of the references (I didn't check any).
   - Percentage of foreign origin
   - Health & lifespan
   - Median age
+  - [City "type"](https://www.sciencemag.org/news/2014/10/there-are-only-four-types-cities)
+  - Distinguish city proper and metropolitan area.
