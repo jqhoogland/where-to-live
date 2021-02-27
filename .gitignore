@@ -1,5 +1,6 @@
 **/**.DS_Store
 **.\#*
+**/src/data/temperature/raw/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

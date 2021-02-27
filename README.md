@@ -16,7 +16,9 @@ And a lookup tool. And maybe a suggestion tool (once you've weighted all the met
 
 ## The Data
 
-#### [Temperature](https://en.wikipedia.org/wiki/List_of_cities_by_average_temperature)
+#### Temperature
+Source 1: [City monthly average temperatures](https://en.wikipedia.org/wiki/List_of_cities_by_average_temperature)
+Source 2: [All the data](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt)
 
 First, the maximum and minimum monthly average temperatures per city. XKCD's used humidex, but this will come close enough.
 Note: this doesn't factor in the differences between daily high and low (it averages across the entire day). So some desert places will appear more temperate than they are.
